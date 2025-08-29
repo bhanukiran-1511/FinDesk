@@ -1,2 +1,2 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+# FinDesk – Full-Stack Stock Trading Dashboard
+An interactive dashboard to simulate stock trading for 100+ stocks in real time
